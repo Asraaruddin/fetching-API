@@ -11,7 +11,6 @@ This is a simple web app built using **HTML**, **CSS**, **Boostrap** and **JavaS
 - ⭐ View products by rating
 
 ## 📦 Tech Stack
-
 - HTML
 - CSS
 - Bootstrap
