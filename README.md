@@ -10,6 +10,7 @@ This is a simple web app built using **HTML**, **CSS**, **Boostrap** and **JavaS
 - 🧩 Filter products by category
 - ⭐ View products by rating
 
+
 ## 📦 Tech Stack
 - HTML
 - CSS
