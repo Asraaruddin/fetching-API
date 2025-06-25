@@ -15,7 +15,6 @@ This is a simple web app built using **HTML**, **CSS**, **Bootstrap**, and **Jav
 * 🔍 Search products by name
 * 🧩 Filter products by category
 * ⭐ View products by rating
-
 ## 📷 Screenshots
 
 ### 🛒 Product Listing Page
