@@ -111,6 +111,7 @@ function bodyload(){
     LoadCategories();
    LoadProducts("https://fakestoreapi.com/products");
 }
+
 function CategoryChange(){
     var categoryname = document.getElementById("1stCategories").value;
     if (categoryname==="all"){
@@ -226,9 +227,17 @@ function SearchClick(){
     </header>
     <section class="row mt-2">
         <nav class="col-2">
+            
             <label class="form-label fw-bold">Select Category</label>
             <div>
-                <select id="1stCategories" onchange="CategoryChange()" class="form-select"></select>
+                <select id="1stCategories" onchange="CategoryChange()" class="form-select">
+  <option value="all">All</option>
+  <option value="electronics">Electronics</option>
+  <option value="jewelery">Jewelery</option>
+  <option value="men's clothing">Men's Clothing</option>
+  <option value="women's clothing">Women's Clothing</option>
+</select>
+
             </div>
 
             <div class="my-2">
